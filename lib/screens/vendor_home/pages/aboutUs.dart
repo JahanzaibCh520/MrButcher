@@ -78,7 +78,7 @@ class _AboutUsState extends State<AboutUs> {
                           Icons.favorite,
                         ),
                         title: Text(
-                          "Mr Butcher by Jahan Zeb",
+                          "Mr Butcher by M. Jahanzaib",
                           style: TextStyle(
                             color: Color(0XFF8B8B8B),
                           ),
@@ -90,7 +90,7 @@ class _AboutUsState extends State<AboutUs> {
                       ListTile(
                         leading: Icon(CupertinoIcons.globe),
                         title: Text(
-                          "https://mrbutcher.com",
+                          "https://github.com/JahanzaibCh520/MrButcher",
                           style: TextStyle(
                             color: Color(0XFF8B8B8B),
                           ),
@@ -115,10 +115,10 @@ class _AboutUsState extends State<AboutUs> {
                       ),
                       ListTile(
                         leading: Icon(
-                         Entypo.facebook
+                         Entypo.linkedin
                         ),
                         title: Text(
-                          "https://fb.com/jahanzeb",
+                          "https://www.linkedin.com/in/jahanzaib-ch-520/",
                           style: TextStyle(
                             color: Color(0XFF8B8B8B),
                           ),
@@ -130,7 +130,7 @@ class _AboutUsState extends State<AboutUs> {
                       ListTile(
                         leading: Icon(Entypo.twitter),
                         title: Text(
-                          "https://t.com/jahanzeb",
+                          "https://twitter.com/Jahanzaibch520",
                           style: TextStyle(
                             color: Color(0XFF8B8B8B),
                           ),
